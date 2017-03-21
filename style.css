@@ -1,0 +1,9 @@
+.awesome {
+
+    animation: cool 3s alternate infinite;
+}
+
+@keyframes cool {
+    to {transform: translate(90vw);
+    }
+}
